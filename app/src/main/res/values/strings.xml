@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">NotBOOK</string>
+    <string name="tab_text_1">Notas</string>
+    <string name="tab_text_2">Tareas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola fragmento blanco</string>
+    <string name="descripcion_contenido_multimedia">Descripción</string>
+    <string name="fecha_contenido_nota">Fecha</string>
+    <string name="titulo_contenido_nota">Título</string>
+    <string name="descripcion_contenido_nota">Descripción</string>
+    <string name="hint_titulo_crear_nota">Título</string>
+    <string name="hint_descripcion_crear_nota">Descripción</string>
+    <string name="hint_contenido_crear_nota">Contenido</string>
+    <string name="hint_titulo_crear_tarea">Título</string>
+    <string name="hint_descripcion_crear_tarea">Descripción</string>
+    <string name="hint_fecha_hora_crear_tarea">Fecha y hora</string>
+    <string name="hint_recordatorios_crear_tarea">Recordatorios</string>
+    <string name="hint_contenido_crear_tarea">Contenido</string>
+    <string name="eliminar_crear_tarea">Eliminar</string>
+    <string name="hint_descripcion_imagenes">Descripción</string>
+    <string name="titulo_nota_detalle">Titulo</string>
+    <string name="descripcion_nota_detalle">Descripción</string>
+    <string name="contenido_nota_detalle">Contenido</string>
+    <string name="completada_tarea_detalle">Completada</string>
+    <string name="titulo_tarea_detalle">Titulo</string>
+    <string name="descripcion_tarea_detalle">Descripción</string>
+    <string name="fecha_hora_tarea_detalle">Fecha y hora</string>
+    <string name="hint_recordatorios_tarea_detalle">Recordatorios</string>
+    <string name="contenido_tarea_detalle">Contenido</string>
+    <string name="hint_descripcion_video">Descripción</string>
+    <string name="fecha_cumplimiento_crear_tarea">Fecha de cumplimiento</string>
+</resources>

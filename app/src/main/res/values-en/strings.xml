@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotBOOK</string>
+    <string name="tab_text_1">Notes</string>
+    <string name="tab_text_2">Tasks</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="descripcion_contenido_multimedia">Description</string>
+    <string name="fecha_contenido_nota">Date</string>
+    <string name="titulo_contenido_nota">Title</string>
+    <string name="descripcion_contenido_nota">Description</string>
+    <string name="hint_titulo_crear_nota">Title</string>
+    <string name="hint_descripcion_crear_nota">Description</string>
+    <string name="hint_contenido_crear_nota">Content</string>
+    <string name="hint_titulo_crear_tarea">Title</string>
+    <string name="hint_descripcion_crear_tarea">Description</string>
+    <string name="hint_fecha_hora_crear_tarea">Date and hour</string>
+    <string name="hint_recordatorios_crear_tarea">Reminders</string>
+    <string name="hint_contenido_crear_tarea">Content</string>
+    <string name="eliminar_crear_tarea">Delete</string>
+    <string name="hint_descripcion_imagenes">Description</string>
+    <string name="titulo_nota_detalle">Title</string>
+    <string name="descripcion_nota_detalle">Description</string>
+    <string name="contenido_nota_detalle">Content</string>
+    <string name="completada_tarea_detalle">Complete</string>
+    <string name="titulo_tarea_detalle">Title</string>
+    <string name="descripcion_tarea_detalle">Description</string>
+    <string name="fecha_hora_tarea_detalle">Date and hour</string>
+    <string name="hint_recordatorios_tarea_detalle">Reminders</string>
+    <string name="contenido_tarea_detalle">Content</string>
+    <string name="hint_descripcion_video">Description</string>
+    <string name="fecha_cumplimiento_crear_tarea">Due date</string>
+</resources>
